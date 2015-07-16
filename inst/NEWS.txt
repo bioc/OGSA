@@ -1,0 +1,9 @@
+Changes in Version 0.99.5
+-shortened lines
+-added \value sections to manual pages
+-fixed indentation
+-removed generated comments from manual pages
+-added documentation for all functions
+-updated R dependency to 3.2 from 2.9.0
+-added to biocViews
+-cleaned up code for readability

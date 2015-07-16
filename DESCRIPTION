@@ -1,0 +1,16 @@
+Package: OGSA
+Version: 0.99.7
+Date: 2015-06-25
+Title: Outlier Gene Set Analysis
+Author: Michael F. Ochs <ochsm@tcnj.edu>
+Description: OGSA provides a global estimate of pathway deregulation in
+        cancer subtypes by integrating the estimates of significance
+        for individual pathway members that have been identified by
+        outlier analysis.
+Maintainer: Michael F. Ochs <ochsm@tcnj.edu>
+Depends: R (>= 3.2.0)
+Imports: gplots(>= 2.8.0), limma(>= 3.18.13), Biobase
+LazyData: true
+License: GPL (== 2)
+biocViews: GeneExpression, Microarray, CopyNumberVariation
+NeedsCompilation: no
