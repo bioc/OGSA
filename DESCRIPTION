@@ -1,5 +1,5 @@
 Package: OGSA
-Version: 1.19.0
+Version: 1.19.1
 Date: 2015-06-25
 Title: Outlier Gene Set Analysis
 Author: Michael F. Ochs <ochsm@tcnj.edu>
@@ -14,3 +14,4 @@ LazyData: true
 License: GPL (== 2)
 biocViews: GeneExpression, Microarray, CopyNumberVariation
 NeedsCompilation: no
+PackageStatus: Deprecated
